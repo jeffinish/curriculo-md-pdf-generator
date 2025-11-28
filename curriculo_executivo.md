@@ -72,6 +72,10 @@ Foco em automações, AWS e implementação de modelos de IA.
 
 - Dashboards, automações e modelos para auditoria assistencial.
 
+#### **Projeto Análise de Anexos de Guias de Transcrição – Unimed-BH**
+
+- Projeto utilizando OCR para análise de fraudes em documentos enviados por prestadores terceiros.
+
 #### **Centro de Monitoramento Comercial – Unimed-BH**  
 
 - Ambiente centralizado de KPIs comerciais.

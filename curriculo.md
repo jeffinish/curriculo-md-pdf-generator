@@ -47,7 +47,7 @@ Capacidade comprovada de estruturar processos, otimizar fluxos de informação e
 
 #### Principais realizações:
 
-- Conduzi a equipe (6 analistas) na produção de análises e estudos para prospecção e manutenção da carteira, utilizando Python, SQL e Excel como bases técnicas.
+- Conduzi a equipe (6 analistas) na produção de análises e estudos para prospecção e manutenção da carteira de clientes, utilizando Python, SQL e Excel como bases técnicas.
 - Desenvolvi consultas e modelos analíticos integrando diferentes bases de dados, acelerando o processo de tomada de decisões comerciais.
 - Produzi estudos estratégicos para a superintendência, identificando padrões financeiros, oportunidades de receita e comportamentos da carteira.
 - Estruturei análises avançadas utilizando Python conectado a múltiplas fontes, reforçando a precisão e a profundidade dos resultados.
