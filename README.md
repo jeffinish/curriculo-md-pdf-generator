@@ -11,8 +11,6 @@ A ideia é manter um currículo:
 -  Com visual profissional;
 -  Com geração totalmente automatizada.
 
----
-
 ## Tecnologias utilizadas
 
 - **Markdown** para edição
