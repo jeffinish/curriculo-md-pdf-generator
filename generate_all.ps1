@@ -1,0 +1,1 @@
+python gerar_pdf.py --all   

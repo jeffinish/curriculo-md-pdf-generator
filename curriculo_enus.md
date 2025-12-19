@@ -12,6 +12,7 @@ header-includes:
 
 # **Jefferson Barbosa Amorim Silva**
 Specialist in Data Engineering and Analysis • Solutions and Strategy  
+Phone : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  

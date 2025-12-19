@@ -11,7 +11,8 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Engenharia e Análise de Dados • Soluções e Estratégia  
+Especialista em Engenharia e Análise de Dados • Soluções e Estratégia
+Celular : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  

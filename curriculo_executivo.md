@@ -8,7 +8,8 @@ colorlinks: true
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Dados · Engenharia | Analytics | Projetos  
+Especialista em Dados · Engenharia | Analytics | Projetos 
+Celular : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
