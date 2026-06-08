@@ -1,0 +1,41 @@
+---
+description: Sincronização dos 4 arquivos de currículo (PT/EN, completo/executivo)
+globs: curriculo*.md
+alwaysApply: false
+---
+
+# Sincronização de currículos
+
+## Hierarquia de arquivos
+
+- `curriculo.md` — fonte base (PT, completo)
+- `curriculo_enus.md` — mesmo conteúdo traduzido para inglês
+- `curriculo_executivo.md` — versão resumida em português
+- `curriculo_executivo_enus.md` — versão resumida em inglês
+
+Ao editar qualquer um dos 4 arquivos, propagar a mudança nos demais conforme o fluxo:
+
+```
+curriculo.md → curriculo_enus.md (traduzir)
+curriculo.md → curriculo_executivo.md (resumir)
+curriculo_executivo.md → curriculo_executivo_enus.md (traduzir)
+```
+
+## Checklist obrigatório antes de finalizar
+
+1. Dados de contato (telefone, e-mail, LinkedIn, GitHub) idênticos em todos
+2. Campo `date` no front matter alinhado entre pares (completo vs executivo)
+3. Competências, experiências e projetos presentes no par PT/EN correspondente
+4. Usar `scikit-learn` (nunca `sckit-learn`)
+5. Versão executiva: mesmos fatos, texto condensado — não contradizer o completo
+6. Preservar front matter YAML e formatação Eisvogel (`header-includes`, `geometry`, etc.)
+
+## Decisões de conteúdo
+
+- Seção **Interesses**: omitida na versão executiva (aceitável para resumo)
+- Doutorado: se trancado, refletir em todas as versões; período e status devem ser consistentes
+- Títulos de cargo em inglês já estabelecidos: "Clinical Data Analyst", "Commercial Performance Supervisor", "Data Engineer", "Junior Business Intelligence Analyst"
+
+## PDFs
+
+Não commitar arquivos `*.pdf` (já ignorados no `.gitignore`).

@@ -11,8 +11,8 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Specialist in Data Engineering and Analysis • Solutions and Strategy  
-Phone : (+55)31 98819-0639
+Specialist in Engineering and Data Analysis • Solutions and Strategy  
+Phone : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
@@ -133,7 +133,7 @@ Built a web application to visualize hospital bed occupancy in real time. The sy
 
 **Technologies**: HTML, CSS, JavaScript, SQL.
 
-### **Strava Data Consumption – Personal Project**n+
+### **Strava Data Consumption – Personal Project**
 Developed scripts and dashboards to ingest, process, and analyze sports data from the Strava API. The project includes consolidation of workouts, comparative analyses, evolution charts, and personalized insights for endurance and triathlon training.
 
 **Technologies**: Python, REST API, Pandas, data visualizations.
@@ -142,7 +142,7 @@ Developed scripts and dashboards to ingest, process, and analyze sports data fro
 
 ## **Education**
 
-### PhD in Mathematics
+### PhD in Mathematics (On hold)
 **Universidade Federal de Minas Gerais (UFMG)**  
 *Mar/2020 – Dec/2021*
 

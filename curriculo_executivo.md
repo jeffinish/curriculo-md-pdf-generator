@@ -1,15 +1,18 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Currículo Técnico"
 author: "Jefferson Barbosa Amorim Silva"
-date: "2025-11-14"
+date: "17/11/2025"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
+header-includes:
+  - \usepackage{enumitem}
+  - \setlist{itemsep=1pt, topsep=2pt}
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Dados · Engenharia | Analytics | Projetos 
-Celular : (+55)31 98819-0639
+Especialista em Dados · Engenharia | Analytics | Projetos  
+Celular : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
@@ -21,7 +24,7 @@ Betim · Minas Gerais — Brasil
 Profissional com forte experiência em engenharia e análise de dados, com atuação destacada no setor de saúde suplementar. Trabalhos envolvendo integração de múltiplas bases, construção de pipelines, auditoria assistencial, automação de processos, modelagem de indicadores e monitoramento operacional. Habilidade comprovada em traduzir problemas complexos em soluções objetivas e escaláveis, com entregas estratégicas para áreas assistenciais, comerciais e executivas.
 
 ## **Principais Competências**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, sckit-learn)
+- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
 - SQL (Oracle, AWS Athena)
 - Ambientes em nuvem (AWS)
 - Docker, pipelines, integração de dados
@@ -88,6 +91,10 @@ Foco em automações, AWS e implementação de modelos de IA.
 #### **Painel de Ocupação de Leitos – Projeto Particular**  
 
 - Planta interativa com ocupação em tempo real.
+
+#### **Consumo de Informações do Strava – Projeto Particular**
+
+- Scripts e dashboards para ingestão e análise de dados esportivos via API do Strava.
 
 ### Formação Acadêmica
 
