@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Technical Resume"
 author: "Jefferson Barbosa Amorim Silva"
-date: "17/11/2025"
+date: "07/06/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -16,6 +16,7 @@ Phone : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
+Website: [JS Consultoria](https://d31jocqdxa4h65.cloudfront.net/)  
 Betim · Minas Gerais — Brazil
 
 ---
@@ -39,6 +40,18 @@ Proven ability to structure processes, optimize information flows, and transform
 ---
 
 ## **Professional Experience**
+
+### **Data Analyst II – Banco Inter**
+
+*Jan/2026 – Present · Belo Horizonte/Minas Gerais*
+
+- Working as a data analyst in the payment methods area, with a focus on credit cards, supporting operational and strategic analyses for decision-making.
+
+#### Key achievements:
+
+- Develop analyses and Tableau dashboards to monitor indicators and credit card portfolio behavior.
+- Work with data in an AWS environment, supporting queries, integrations, and information consumption for business areas.
+- Produce analytical studies and reports on payment methods, translating area demands into actionable deliverables.
 
 ### **Commercial Performance Supervisor – Unimed-BH**
 
@@ -97,6 +110,12 @@ Proven ability to structure processes, optimize information flows, and transform
 ---
 
 ## **Relevant Projects**
+### **Data Lake for Digital Health – FELUMA (Fundação Lucas Machado)**
+
+Data structuring for the creation of a Data Lake focused on FELUMA's digital health initiatives, organizing sources, modeling, and analytical layers for business area consumption and operational monitoring.
+
+**Technologies**: AWS, Amazon Aurora Serverless, Power BI.
+
 ### **Medical Claims Audit Project – Unimed-BH**
 
 Developed dashboards and automations for end-to-end monitoring of the hospital claims audit workflow. The project involved data modeling, creation of key indicators, validation routines, and standardization of information, as well as delivering real-time monitoring panels.

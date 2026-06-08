@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Currículo Técnico"
 author: "Jefferson Barbosa Amorim Silva"
-date: "17/11/2025"
+date: "07/06/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -16,6 +16,7 @@ Celular : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
+Website: [JS Consultoria](https://d31jocqdxa4h65.cloudfront.net/)  
 Betim · Minas Gerais — Brasil 
 
 ---
@@ -35,6 +36,13 @@ Profissional com forte experiência em engenharia e análise de dados, com atua�
 ---
 
 ## **Experiência Profissional**
+
+### **Analista de Dados II – Banco Inter**
+*2026 – Atual*  
+Atuação em meios de pagamento (cartões de crédito) com Tableau e AWS.
+
+- Dashboards e análises para monitoramento da carteira de cartões.
+- Estudos analíticos para apoio à tomada de decisão na área de pagamentos.
 
 ### **Supervisor de Desempenho Comercial – Unimed-BH**
 *2025*  
@@ -68,6 +76,10 @@ Foco em automações, AWS e implementação de modelos de IA.
 - Análises exploratórias e estruturação de bases.
 
 ## **Projetos Relevantes**
+#### **DataLake para Saúde Digital – FELUMA (Fundação Lucas Machado)**
+
+- Estruturação de Data Lake para saúde digital com AWS, Aurora Serverless e dashboards em Power BI.
+
 #### **Centro de Monitoramento Hospitalar – Unimed-BH**
 
 - Command center para indicadores assistenciais e operacionais.

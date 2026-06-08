@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Technical Resume"
 author: "Jefferson Barbosa Amorim Silva"
-date: "17/11/2025"
+date: "07/06/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -16,6 +16,7 @@ Phone : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
+Website: [JS Consultoria](https://d31jocqdxa4h65.cloudfront.net/)  
 Betim · Minas Gerais — Brazil
 
 ---
@@ -35,6 +36,13 @@ Experienced professional with strong background in data engineering and analysis
 ---
 
 ## **Professional Experience**
+
+### **Data Analyst II – Banco Inter**
+*2026 – Present*  
+Work in payment methods (credit cards) with Tableau and AWS.
+
+- Dashboards and analyses for credit card portfolio monitoring.
+- Analytical studies to support decision-making in the payments area.
 
 ### **Commercial Performance Supervisor – Unimed-BH**
 *2025*  
@@ -68,6 +76,10 @@ Focus on automation, AWS, and implementation of AI models.
 - Exploratory analyses and dataset structuring.
 
 ## **Relevant Projects**
+#### **Data Lake for Digital Health – FELUMA (Fundação Lucas Machado)**
+
+- Data Lake structuring for digital health with AWS, Aurora Serverless, and Power BI dashboards.
+
 #### **Hospital Monitoring Center – Unimed-BH**
 
 - Command center for clinical and operational indicators.
