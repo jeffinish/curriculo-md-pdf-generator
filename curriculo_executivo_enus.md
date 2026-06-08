@@ -1,15 +1,18 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Technical Resume"
 author: "Jefferson Barbosa Amorim Silva"
-date: "2025-11-14"
+date: "17/11/2025"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
+header-includes:
+  - \usepackage{enumitem}
+  - \setlist{itemsep=1pt, topsep=2pt}
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Data Specialist · Engineering | Analytics | Projects
-Phone : (+55)31 98819-0639
+Data Specialist · Engineering | Analytics | Projects  
+Phone : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
@@ -88,6 +91,10 @@ Focus on automation, AWS, and implementation of AI models.
 #### **Bed Occupancy Dashboard – Personal Project**
 
 - Interactive floor plan showing real-time occupancy.
+
+#### **Strava Data Consumption – Personal Project**
+
+- Scripts and dashboards for ingestion and analysis of sports data via the Strava API.
 
 ### Education
 

@@ -11,8 +11,8 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Engenharia e Análise de Dados • Soluções e Estratégia
-Celular : (+55)31 98819-0639
+Especialista em Engenharia e Análise de Dados • Soluções e Estratégia  
+Celular : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
@@ -28,7 +28,7 @@ Capacidade comprovada de estruturar processos, otimizar fluxos de informação e
 ---
 
 ## **Principais Competências**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, sckit-learn)
+- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
 - SQL (Oracle, AWS Athena)
 - Ambientes em nuvem (AWS)
 - Docker, pipelines, integração de dados
@@ -143,7 +143,7 @@ Desenvolvimento de scripts e dashboards para ingestão, tratamento e análise de
 
 ## **Formação Acadêmica**
 
-### Doutorado em Matemática
+### Doutorado em Matemática (Trancado)
 **Universidade Federal de Minas Gerais (UFMG)**  
 *Mar/2020 – Dez/2021*
 
