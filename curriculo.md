@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Currículo Técnico"
 author: "Jefferson Barbosa Amorim Silva"
-date: "17/11/2025"
+date: "07/06/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -16,6 +16,7 @@ Celular : (+55)31 98819-0639
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
 GitHub: [jeffinish](https://github.com/jeffinish)  
+Website: [JS Consultoria](https://d31jocqdxa4h65.cloudfront.net/)  
 Betim · Minas Gerais — Brasil 
 
 ---
@@ -39,6 +40,18 @@ Capacidade comprovada de estruturar processos, otimizar fluxos de informação e
 ---
 
 ## **Experiência Profissional**
+
+### **Analista de Dados II – Banco Inter**
+
+*Janeiro/2026 – Atual · Belo Horizonte/Minas Gerais*
+
+- Atuação como analista de dados na área de meios de pagamento, com foco em cartões de crédito, apoiando análises operacionais e estratégicas para a tomada de decisão.
+
+#### Principais realizações:
+
+- Desenvolvo análises e dashboards em Tableau para monitoramento de indicadores e comportamento da carteira de cartões de crédito.
+- Trabalho com dados em ambiente AWS, apoiando consultas, integrações e consumo de informações para as áreas de negócio.
+- Produzo estudos e relatórios analíticos sobre meios de pagamento, traduzindo demandas da área em entregas acionáveis.
 
 ### **Supervisor de Desempenho Comercial – Unimed-BH**
 
@@ -97,6 +110,12 @@ Capacidade comprovada de estruturar processos, otimizar fluxos de informação e
 ---
 
 ## **Projetos Relevantes**
+### **DataLake para Saúde Digital – FELUMA (Fundação Lucas Machado)**
+
+Estruturação de dados para criação de um Data Lake voltado à saúde digital da FELUMA, organizando fontes, modelagem e camadas analíticas para consumo por áreas de negócio e monitoramento operacional.
+
+**Tecnologias**: AWS, Amazon Aurora Serverless, Power BI.
+
 ### **Projeto Auditoria de Contas – Unimed-BH**
 
 Desenvolvimento de dashboards e automações para acompanhamento completo do fluxo de auditoria de contas hospitalares. O projeto envolveu a modelagem dos dados, criação de indicadores-chave, construção de processos de validação e padronização da informação, além da entrega de painéis para monitoramento em tempo real.
