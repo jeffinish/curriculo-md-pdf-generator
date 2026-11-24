@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Currículo Técnico"
 author: "Jefferson Barbosa Amorim Silva"
-date: "07/06/2026"
+date: "24/11/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -11,7 +11,7 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Dados · Engenharia | Analytics | Projetos  
+Especialista em Dados · Engenharia | Analytics | Saúde  
 Celular : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
@@ -22,27 +22,38 @@ Betim · Minas Gerais — Brasil
 ---
 
 ## **Resumo Profissional**
-Profissional com forte experiência em engenharia e análise de dados, com atuação destacada no setor de saúde suplementar. Trabalhos envolvendo integração de múltiplas bases, construção de pipelines, auditoria assistencial, automação de processos, modelagem de indicadores e monitoramento operacional. Habilidade comprovada em traduzir problemas complexos em soluções objetivas e escaláveis, com entregas estratégicas para áreas assistenciais, comerciais e executivas.
+Profissional de dados com atuação em engenharia, análise e ciência de dados, em saúde suplementar e meios de pagamento. Experiência em pipelines em AWS e Azure, modelos de IA em produção, indicadores para decisão e apoio regulatório, com formação em matemática e foco em transformar dados operacionais e clínicos em informação confiável.
 
 ## **Principais Competências**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
-- SQL (Oracle, AWS Athena)
-- Ambientes em nuvem (AWS)
-- Docker, pipelines, integração de dados
-- Metabase, Power BI , Qlik Sense, Tableau
-- Boas práticas: tratativas de erro, logs, versionamento, testes
-- Documentação técnica e processos
+- Python (Pandas, PySpark, scikit-learn, Streamlit)
+- SQL (Oracle, PostgreSQL, MySQL, AWS Athena)
+- Nuvem: AWS (Aurora, DynamoDB, Lambda) e Azure (pipelines, DW, Data Lake)
+- Tableau, Power BI, Metabase, Qlik Sense
+- Pipelines, observabilidade, Docker, qualidade de dados
 
 ---
 
 ## **Experiência Profissional**
 
-### **Analista de Dados II – Banco Inter**
-*2026 – Atual*  
-Atuação em meios de pagamento (cartões de crédito) com Tableau e AWS.
+### **Data Business Analyst – Customertimes**
+*Set/2026 – Atual*  
+Atuação alocada na Oscar Health Insurance, no time de Network e Filings.
 
-- Dashboards e análises para monitoramento da carteira de cartões.
-- Estudos analíticos para apoio à tomada de decisão na área de pagamentos.
+- Geração de dados para submissões à CMS e a reguladores estaduais.
+
+### **Cientista de Dados – Cemig Saúde**
+*Set/2026 – Atual*  
+Operação de modelos de IA em produção e pipelines de dados na Azure.
+
+- Modelos de classificação de risco, predição de oncologia e extração de texto em resultados de exame.
+- Manutenção de pipelines para ingestão em data warehouse e data lake.
+
+### **Analista de Dados II – Banco Inter**
+*Jan/2026 – Set/2026*  
+Atuação em meios de pagamento (cartões de crédito), com Tableau, AWS e Open Finance.
+
+- Disponibilidade de dados de cartão para Open Finance (DynamoDB e Lambda), com observabilidade e desempenho.
+- Análises de utilização e ativação da carteira e dashboards em Tableau.
 
 ### **Supervisor de Desempenho Comercial – Unimed-BH**
 *2025*  

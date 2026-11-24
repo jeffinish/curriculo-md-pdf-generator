@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Technical Resume"
 author: "Jefferson Barbosa Amorim Silva"
-date: "07/06/2026"
+date: "24/11/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -11,7 +11,7 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Specialist in Engineering and Data Analysis • Solutions and Strategy  
+Data Specialist · Engineering | Analytics | Healthcare  
 Phone : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
@@ -22,36 +22,57 @@ Betim · Minas Gerais — Brazil
 ---
 
 ## **Professional Summary**
-Experienced professional in data engineering and analysis, working on high-impact projects involving data processing, modeling, integration, and interpretation to support decision-making. Strong experience in the supplementary health sector, with background in medical audit, hospital efficiency, cloud cost reduction, and development of analytical solutions in Python and SQL.
+Data professional working across engineering, analytics, and data science in supplementary health and payment methods. Experience with cloud pipelines (AWS and Azure), production AI models, decision-support indicators, and regulatory reporting.
 
-Proven ability to structure processes, optimize information flows, and transform business needs into consistent and scalable analytical products. Experience in technical leadership, supporting multidisciplinary teams, and driving strategic initiatives with a high level of autonomy.
+Mathematics background and a track record at the intersection of analytical rigor, technology, and business context, focused on turning operational and clinical data into reliable information for decision-makers.
 
 ---
 
 ## **Key Skills**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
-- SQL (Oracle, AWS Athena)
-- Cloud environments (AWS)
-- Docker, pipelines, data integration
-- Data visualization (Metabase, Power BI, Qlik Sense, Tableau)
-- Best practices: error handling, logging, versioning, testing
-- Technical documentation and process design
+- Python (Pandas, PySpark, scikit-learn, Streamlit, SQLAlchemy)
+- SQL (Oracle, PostgreSQL, MySQL, AWS Athena)
+- Cloud: AWS (Aurora, DynamoDB, Lambda, S3, Athena, Textract) and Azure (pipelines, data warehouse, data lake)
+- Visualization: Tableau, Power BI, Metabase, Qlik Sense
+- Practices: pipelines, observability, data quality, Docker, versioning, and testing
 
 ---
 
 ## **Professional Experience**
 
-### **Data Analyst II – Banco Inter**
+### **Data Business Analyst – Customertimes**
 
-*Jan/2026 – Present · Belo Horizonte/Minas Gerais*
+*Sep/2026 – Present · Remote*
 
-- Working as a data analyst in the payment methods area, with a focus on credit cards, supporting operational and strategic analyses for decision-making.
+- Business Analyst allocated to Oscar Health Insurance, on the Network and Filings team.
 
 #### Key achievements:
 
-- Develop analyses and Tableau dashboards to monitor indicators and credit card portfolio behavior.
-- Work with data in an AWS environment, supporting queries, integrations, and information consumption for business areas.
-- Produce analytical studies and reports on payment methods, translating area demands into actionable deliverables.
+- Support understanding and data generation for submissions to CMS and state regulators.
+
+### **Data Scientist – Cemig Saúde**
+
+*Sep/2026 – Present · Belo Horizonte/Minas Gerais*
+
+- Responsible for operating production AI models and maintaining data pipelines on Azure.
+
+#### Key achievements:
+
+- Keep production models running for member risk classification, oncology prediction, and text extraction from exam results, tracking outcomes and proposing structural and algorithmic improvements.
+- Maintain data load and processing pipelines on Azure for ingestion into the data warehouse and data lake.
+
+### **Data Analyst II – Banco Inter**
+
+*Jan/2026 – Sep/2026 · Belo Horizonte/Minas Gerais*
+
+- Worked as a data analyst in the payment methods area, with a focus on credit cards, supporting operational and strategic analyses for decision-making.
+
+#### Key achievements:
+
+- Ensured availability of credit card data for the Open Finance platform, adjusting the AWS pipeline (DynamoDB and Lambda) and monitoring its observability and performance.
+- Analyzed credit card usage and activation profiles, supporting the area's data scientists.
+- Developed analyses and Tableau dashboards to monitor indicators and credit card portfolio behavior.
+- Worked with data in an AWS environment, supporting queries, integrations, and information consumption for business areas.
+- Produced analytical studies and reports on payment methods, translating area demands into actionable deliverables.
 
 ### **Commercial Performance Supervisor – Unimed-BH**
 
@@ -178,9 +199,7 @@ Developed scripts and dashboards to ingest, process, and analyze sports data fro
 **Advisor:** Prof. Dr. Thiago Fontes Santos  
 **Co-advisor:** Prof. Dr. Sebastião Martins Xavier  
 **Activities and programs:**
-- Science Without Borders program (CSF)
-    **Western Illinois University (WIU)** : *2015 – 2016*  
-    Scholarship recipient under the Science Without Borders program from August/2015 to July/2016. Completed undergraduate and graduate courses and spent the last two months preparing and delivering an introductory Real Analysis workshop, taught entirely in English.  
+- Science Without Borders (CSF) — Western Illinois University (WIU), 2015–2016: undergraduate and graduate coursework and an introductory Real Analysis workshop taught in English.  
 - Undergraduate Research (3 years)
 - Tutorial Education Program (PET)
 - Institutional Teaching Incentive Scholarship Program (PIBID)

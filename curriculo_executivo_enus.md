@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Technical Resume"
 author: "Jefferson Barbosa Amorim Silva"
-date: "07/06/2026"
+date: "24/11/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -11,7 +11,7 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Data Specialist · Engineering | Analytics | Projects  
+Data Specialist · Engineering | Analytics | Healthcare  
 Phone : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
@@ -22,27 +22,38 @@ Betim · Minas Gerais — Brazil
 ---
 
 ## **Professional Summary**
-Experienced professional with strong background in data engineering and analysis, with notable work in the supplementary health sector. Projects include integration of multiple sources, pipeline construction, medical auditing, process automation, indicator modeling, and operational monitoring. Proven ability to translate complex problems into objective, scalable solutions, delivering strategic results for clinical, commercial, and executive areas.
+Data professional working across engineering, analytics, and data science in supplementary health and payment methods. Experience with AWS and Azure pipelines, production AI models, decision-support indicators, and regulatory reporting, with a mathematics background and a focus on turning operational and clinical data into reliable information.
 
 ## **Key Skills**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
-- SQL (Oracle, AWS Athena)
-- Cloud environments (AWS)
-- Docker, pipelines, data integration
-- Metabase, Power BI, Qlik Sense, Tableau
-- Best practices: error handling, logging, versioning, testing
-- Technical documentation and process design
+- Python (Pandas, PySpark, scikit-learn, Streamlit)
+- SQL (Oracle, PostgreSQL, MySQL, AWS Athena)
+- Cloud: AWS (Aurora, DynamoDB, Lambda) and Azure (pipelines, data warehouse, data lake)
+- Tableau, Power BI, Metabase, Qlik Sense
+- Pipelines, observability, Docker, data quality
 
 ---
 
 ## **Professional Experience**
 
-### **Data Analyst II – Banco Inter**
-*2026 – Present*  
-Work in payment methods (credit cards) with Tableau and AWS.
+### **Data Business Analyst – Customertimes**
+*Sep/2026 – Present*  
+Allocated to Oscar Health Insurance, on the Network and Filings team.
 
-- Dashboards and analyses for credit card portfolio monitoring.
-- Analytical studies to support decision-making in the payments area.
+- Data generation for submissions to CMS and state regulators.
+
+### **Data Scientist – Cemig Saúde**
+*Sep/2026 – Present*  
+Operation of production AI models and data pipelines on Azure.
+
+- Risk classification, oncology prediction, and text extraction from exam results.
+- Pipeline maintenance for ingestion into the data warehouse and data lake.
+
+### **Data Analyst II – Banco Inter**
+*Jan/2026 – Sep/2026*  
+Work in payment methods (credit cards), with Tableau, AWS, and Open Finance.
+
+- Credit card data availability for Open Finance (DynamoDB and Lambda), including observability and performance.
+- Portfolio usage and activation analyses, plus Tableau dashboards.
 
 ### **Commercial Performance Supervisor – Unimed-BH**
 *2025*  
