@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Barbosa Amorim Silva – Currículo Técnico"
 author: "Jefferson Barbosa Amorim Silva"
-date: "07/06/2026"
+date: "24/11/2026"
 geometry: margin=1.8cm
 fontsize: 11pt
 colorlinks: true
@@ -11,7 +11,7 @@ header-includes:
 ---
 
 # **Jefferson Barbosa Amorim Silva**
-Especialista em Engenharia e Análise de Dados • Soluções e Estratégia  
+Especialista em Dados · Engenharia | Analytics | Saúde  
 Celular : (+55)31 98819-0639  
 E-mail: jeffauh@gmail.com  
 LinkedIn: [Jefferson Silva](https://www.linkedin.com/in/jefferson-silva-78621197/)  
@@ -22,36 +22,57 @@ Betim · Minas Gerais — Brasil
 ---
 
 ## **Resumo Profissional**
-Profissional com experiência sólida em engenharia e análise de dados, atuando em projetos de alto impacto envolvendo processamento, modelagem, integração e interpretação de dados para tomada de decisão. Forte atuação no setor de saúde suplementar, com experiência em auditoria assistencial, eficiência hospitalar, redução de custos em nuvem e desenvolvimento de soluções analíticas em Python e SQL.
+Profissional de dados com atuação em engenharia, análise e ciência de dados, em saúde suplementar e meios de pagamento. Experiência em pipelines em nuvem (AWS e Azure), modelos de IA em produção, indicadores para decisão e apoio a exigências regulatórias.
 
-Capacidade comprovada de estruturar processos, otimizar fluxos de informação e transformar demandas de negócio em produtos analíticos consistentes e escaláveis. Experiência em liderança técnica, suporte a equipes multidisciplinares e condução de iniciativas estratégicas com alto nível de autonomia.
+Formação em matemática e trajetória construída na convergência entre rigor analítico, tecnologia e contexto de negócio, com ênfase em transformar dados operacionais e clínicos em informação confiável para quem decide.
 
 ---
 
 ## **Principais Competências**
-- Python (Streamlit, Pandas, PySpark, SQLAlchemy, scikit-learn)
-- SQL (Oracle, AWS Athena)
-- Ambientes em nuvem (AWS)
-- Docker, pipelines, integração de dados
-- Visualização de dados (Metabase, Power BI , Qlik Sense, Tableau )
-- Boas práticas: tratativas de erro, logs, versionamento, testes
-- Documentação técnica e processos
+- Python (Pandas, PySpark, scikit-learn, Streamlit, SQLAlchemy)
+- SQL (Oracle, PostgreSQL, MySQL, AWS Athena)
+- Nuvem: AWS (Aurora, DynamoDB, Lambda, S3, Athena, Textract) e Azure (pipelines, DW, Data Lake)
+- Visualização: Tableau, Power BI, Metabase, Qlik Sense
+- Práticas: pipelines, observabilidade, qualidade de dados, Docker, versionamento e testes
 
 ---
 
 ## **Experiência Profissional**
 
+### **Data Business Analyst – Customertimes**
+
+*Setembro/2026 – Atual · Remoto*
+
+- Atuo como Business Analyst alocado na Oscar Health Insurance, no time de Network e Filings.
+
+#### Principais realizações:
+
+- Apoio o entendimento e a geração de dados para submissões de informações à CMS e a reguladores estaduais.
+
+### **Cientista de Dados – Cemig Saúde**
+
+*Setembro/2026 – Atual · Belo Horizonte/Minas Gerais*
+
+- Responsável pela operação de modelos de IA em produção e pela manutenção de pipelines de dados na Azure.
+
+#### Principais realizações:
+
+- Garanto o funcionamento de modelos de classificação de risco de beneficiários, predição de oncologia e extração de texto em resultados de exame, acompanhando resultados e propondo melhorias estruturais e algorítmicas.
+- Mantenho pipelines de carga e processamento na Azure para ingestão em data warehouse e data lake.
+
 ### **Analista de Dados II – Banco Inter**
 
-*Janeiro/2026 – Atual · Belo Horizonte/Minas Gerais*
+*Janeiro/2026 – Setembro/2026 · Belo Horizonte/Minas Gerais*
 
 - Atuação como analista de dados na área de meios de pagamento, com foco em cartões de crédito, apoiando análises operacionais e estratégicas para a tomada de decisão.
 
 #### Principais realizações:
 
-- Desenvolvo análises e dashboards em Tableau para monitoramento de indicadores e comportamento da carteira de cartões de crédito.
-- Trabalho com dados em ambiente AWS, apoiando consultas, integrações e consumo de informações para as áreas de negócio.
-- Produzo estudos e relatórios analíticos sobre meios de pagamento, traduzindo demandas da área em entregas acionáveis.
+- Garanti a disponibilidade de dados de cartão de crédito para a plataforma Open Finance, com ajustes na pipeline em AWS (DynamoDB e Lambda) e acompanhamento de observabilidade e desempenho.
+- Realizei análises de perfil de utilização e ativação de cartões de crédito, apoiando os cientistas de dados da área.
+- Desenvolvi análises e dashboards em Tableau para monitoramento de indicadores e comportamento da carteira de cartões de crédito.
+- Trabalhei com dados em ambiente AWS, apoiando consultas, integrações e consumo de informações para as áreas de negócio.
+- Produzi estudos e relatórios analíticos sobre meios de pagamento, traduzindo demandas da área em entregas acionáveis.
 
 ### **Supervisor de Desempenho Comercial – Unimed-BH**
 
@@ -179,10 +200,7 @@ Desenvolvimento de scripts e dashboards para ingestão, tratamento e análise de
 *Orientador:* Prof. Dr. Thiago Fontes Santos  
 *Coorientador:* Prof. Dr. Sebastião Martins Xavier  
 **Atividades e programas:**  
-- Programa Ciência Sem Fronteiras (CSF)  
-    **Western Illinois University (WIU)** : *2015 – 2016*  
-    Bolsista pelo Programa Ciência Sem Fronteiras, no período de Agosto/2015 a Julho/2016.
-    Cursou disciplinas de graduação e mestrado e dedicou os últimos dois meses à preparação e condução de um workshop introdutório de Análise Real, ministrado integralmente em inglês.  
+- Programa Ciência Sem Fronteiras (CSF) — Western Illinois University (WIU), 2015–2016: disciplinas de graduação e mestrado e workshop introdutório de Análise Real ministrado em inglês.  
 - Iniciação Científica (3 anos)  
 - Programa de Ensino Tutorial (PET)  
 - Programa Institucional de Bolsas de Incentivo à Docência (PIBID)  
